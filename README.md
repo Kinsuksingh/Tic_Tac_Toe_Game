@@ -25,6 +25,6 @@ This is a simple Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScrip
 This project is open-source and free to use.
 
 ## Screenshot
-![image](https://github.com/user-attachments/assets/cec0fadf-c1cf-46a5-8697-8a8ad8540b85)
-![image](https://github.com/user-attachments/assets/88225b28-4ac6-4f7c-8bad-eaae720e6b1b)
-![image](https://github.com/user-attachments/assets/bd9b6bc9-d2ca-46ef-8e5f-4468fb670aa0)
+![image](https://github.com/user-attachments/assets/17d28762-fc3b-40ae-83bf-90d8b84b1859)
+
+
